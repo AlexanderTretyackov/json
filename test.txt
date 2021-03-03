@@ -1,0 +1,246 @@
+{
+    "revisions": [
+        {
+            "id": 1005370654,
+            "timestamp": "2021-02-07T09:39:58Z",
+            "minor": false,
+            "size": 47074,
+            "comment": "/* See also */ Health equity",
+            "user": {
+                "id": 34630307,
+                "name": "Cosmicseeds"
+            },
+            "delta": 20
+        },
+        {
+            "id": 1000576792,
+            "timestamp": "2021-01-15T18:36:35Z",
+            "minor": false,
+            "size": 47054,
+            "comment": "wikilink added",
+            "user": {
+                "id": 9910430,
+                "name": "Integrate99"
+            },
+            "delta": 4
+        },
+        {
+            "id": 993305299,
+            "timestamp": "2020-12-09T22:50:49Z",
+            "minor": false,
+            "size": 47050,
+            "comment": "Alter: journal. Add: doi, bibcode, pmc, pmid, s2cid, author pars. 1-1. Removed parameters. Some additions/deletions were actually parameter name changes. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Abductive | via #UCB_webform 38/93",
+            "user": {
+                "id": 7903804,
+                "name": "Citation bot"
+            },
+            "delta": 228
+        },
+        {
+            "id": 992379978,
+            "timestamp": "2020-12-04T23:34:45Z",
+            "minor": false,
+            "size": 46822,
+            "comment": "/* Mental health */",
+            "user": {
+                "id": 37305459,
+                "name": "Patriciamoorehead"
+            },
+            "delta": 2
+        },
+        {
+            "id": 991292467,
+            "timestamp": "2020-11-29T08:51:46Z",
+            "minor": true,
+            "size": 46820,
+            "comment": "[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 39 templates: del empty params (8×); hyphenate params (20×);",
+            "user": {
+                "id": 20483999,
+                "name": "Monkbot"
+            },
+            "delta": -32
+        },
+        {
+            "id": 990425749,
+            "timestamp": "2020-11-24T11:58:53Z",
+            "minor": false,
+            "size": 46852,
+            "comment": "Reverted 1 edit by [[Special:Contributions/Alexbu2014|Alexbu2014]] ([[User talk:Alexbu2014|talk]]): Already linked in the article",
+            "user": {
+                "id": 32990417,
+                "name": "Lord Belbury"
+            },
+            "delta": -40
+        },
+        {
+            "id": 990422474,
+            "timestamp": "2020-11-24T11:26:05Z",
+            "minor": false,
+            "size": 46892,
+            "comment": "/* See also */",
+            "user": {
+                "id": 40556065,
+                "name": "Alexbu2014"
+            },
+            "delta": 40
+        },
+        {
+            "id": 989387404,
+            "timestamp": "2020-11-18T18:03:41Z",
+            "minor": false,
+            "size": 46852,
+            "comment": "added missing preposition and fixed incorrect reference",
+            "user": {
+                "id": 40136627,
+                "name": "Clownfish Anemone Symbiosis"
+            },
+            "delta": 35
+        },
+        {
+            "id": 988650038,
+            "timestamp": "2020-11-14T12:53:05Z",
+            "minor": true,
+            "size": 46817,
+            "comment": "v2.04b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - [[WP:WCW]] project (Reference before punctuation)",
+            "user": {
+                "id": 18872885,
+                "name": "WikiCleanerBot"
+            },
+            "delta": -1
+        },
+        {
+            "id": 984855219,
+            "timestamp": "2020-10-22T14:32:11Z",
+            "minor": true,
+            "size": 46818,
+            "comment": "punct",
+            "user": {
+                "id": 525927,
+                "name": "Chris the speller"
+            },
+            "delta": 0
+        },
+        {
+            "id": 983731908,
+            "timestamp": "2020-10-15T22:38:23Z",
+            "minor": false,
+            "size": 46818,
+            "comment": "/* Potential issues */ improved citation style",
+            "user": {
+                "id": 40136627,
+                "name": "Clownfish Anemone Symbiosis"
+            },
+            "delta": 26
+        },
+        {
+            "id": 983731283,
+            "timestamp": "2020-10-15T22:32:46Z",
+            "minor": true,
+            "size": 46792,
+            "comment": "/* Determinants */ fixed punctuation",
+            "user": {
+                "id": 40136627,
+                "name": "Clownfish Anemone Symbiosis"
+            },
+            "delta": -2
+        },
+        {
+            "id": 981881145,
+            "timestamp": "2020-10-04T23:39:25Z",
+            "minor": true,
+            "size": 46794,
+            "comment": "HTTP → HTTPS for [[World Health Organization]], replaced: [http://www.who.int/ → [https://www.who.int/ (5), =http://www.who.int/ → =https://www.who.int/ (3)",
+            "user": {
+                "id": 28903366,
+                "name": "Bender the Bot"
+            },
+            "delta": 8
+        },
+        {
+            "id": 978753789,
+            "timestamp": "2020-09-16T19:19:45Z",
+            "minor": false,
+            "size": 46786,
+            "comment": "General proofreading.",
+            "user": {
+                "id": 134016,
+                "name": "LearnMore"
+            },
+            "delta": -6
+        },
+        {
+            "id": 972733276,
+            "timestamp": "2020-08-13T15:17:59Z",
+            "minor": false,
+            "size": 46792,
+            "comment": "/* Role of science */",
+            "user": {
+                "id": 32065314,
+                "name": "Marius Lupescu"
+            },
+            "delta": 6
+        },
+        {
+            "id": 963627495,
+            "timestamp": "2020-06-20T21:45:17Z",
+            "minor": true,
+            "size": 46786,
+            "comment": "[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.",
+            "user": {
+                "id": 28481209,
+                "name": "OAbot"
+            },
+            "delta": 20
+        },
+        {
+            "id": 961894207,
+            "timestamp": "2020-06-11T00:09:36Z",
+            "minor": false,
+            "size": 46766,
+            "comment": "/* Determinants */Fixed grammatical error",
+            "user": {
+                "id": 35380692,
+                "name": "The Time to Llama is Now"
+            },
+            "delta": 1
+        },
+        {
+            "id": 950960977,
+            "timestamp": "2020-04-14T19:25:56Z",
+            "minor": true,
+            "size": 46765,
+            "comment": "[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.",
+            "user": {
+                "id": 28481209,
+                "name": "OAbot"
+            },
+            "delta": 52
+        },
+        {
+            "id": 950139680,
+            "timestamp": "2020-04-10T12:16:42Z",
+            "minor": true,
+            "size": 46713,
+            "comment": "/* Potential issues */",
+            "user": {
+                "id": 38299396,
+                "name": "PrecociousPeach"
+            },
+            "delta": -9
+        },
+        {
+            "id": 940323663,
+            "timestamp": "2020-02-11T21:29:32Z",
+            "minor": false,
+            "size": 46722,
+            "comment": "Both of these citations are about the same document (their constitution). Does not need to be duplicated.",
+            "user": {
+                "id": 33824435,
+                "name": "Þjarkur"
+            },
+            "delta": -552
+        }
+    ],
+    "latest": "https://en.wikipedia.org/w/rest.php/v1/page/Health/history",
+    "older": "https://en.wikipedia.org/w/rest.php/v1/page/Health/history?older_than=940323663"
+}
